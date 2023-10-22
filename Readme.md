@@ -19,7 +19,7 @@ of two Vagrant-based Ubuntu systems, designated as Master and Slave, with an int
 
 ## 01 - The Bash script encapsulating the entire deployment process...
 - https://github.com/wave-cloud0/AltSchool-Mini-Assignment
-![content_of_output_git_config_l_img](<images/.jpg>)
+  
 
 ## 02 - The Test PHP page validating the LAMP setup...
 - https://github.com/wave-cloud0/AltSchool-Mini-Assignment
@@ -27,5 +27,5 @@ of two Vagrant-based Ubuntu systems, designated as Master and Slave, with an int
 
 ## 03 - A Load balancer using nginx to allow for traffic to the LAMP...
 - https://github.com/wave-cloud0/AltSchool-Mini-Assignment
-![php2_img](<images/php2.jpeg>)
+![php2_img](<php2.jpeg>)
 
