@@ -24,8 +24,9 @@ of two Vagrant-based Ubuntu systems, designated as Master and Slave, with an int
 ## 02 - The Test PHP page validating the LAMP setup...
 - https://github.com/wave-cloud0/AltSchool-Mini-Assignment
 ![php1_img](<php1.jpeg>)
-
-## 03 - A Load balancer using nginx to allow for traffic to the LAMP...
 - https://github.com/wave-cloud0/AltSchool-Mini-Assignment
 ![php2_img](<php2.jpeg>)
+
+## 03 - A Load balancer using nginx to allow for traffic to the LAMP...
+
 
