@@ -18,7 +18,7 @@ of two Vagrant-based Ubuntu systems, designated as Master and Slave, with an int
 
 
 ## 01 - The Bash script encapsulating the entire deployment process...
-- [Bash Script Master](hhttps://github.com/wave-cloud0/AltSchool-Mini-Assignment/blob/master/master.sh)
+- [Bash Script Master](https://github.com/wave-cloud0/AltSchool-Mini-Assignment/blob/master/master.sh)
 - [Bash Script Slave](https://github.com/wave-cloud0/AltSchool-Mini-Assignment/blob/master/slave.sh)
   
 
