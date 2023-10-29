@@ -74,14 +74,14 @@ Vagrant.configure("2") do |config|
   config.vm.define "slave" do |slave_config|
     slave_config.vm.box = "ubuntu/focal64"
     slave_config.vm.hostname = "Slave"
-    slave_config.vm.network "private_network", ip: "192.168.130.0"
+    slave_config.vm.network "private_network", ip: "192.168.100.100"
     slave_config.vm.provision "shell", path: "slave.sh"
   end
   
   config.vm.define "master" do |master_config|
     master_config.vm.box = "ubuntu/focal64"
     master_config.vm.hostname = "Master"
-    master_config.vm.network "private_network",  ip: "192.168.130.1"
+    master_config.vm.network "private_network", ip: "192.168.100.101"
     master_config.vm.provision "shell", path: "master.sh"
   end
   
